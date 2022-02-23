@@ -17,6 +17,7 @@ namespace maxszam
             {
                 if (aktszam != 0)
                 {   aktszam = Convert.ToInt32(Console.ReadLine());
+
                 
                     if (aktszam > maxszam)
                     {
